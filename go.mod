@@ -1,3 +1,5 @@
-module github.com/istrel/bot
+module github.com/shagabiev/bot
 
 go 1.22.1
+
+require github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1
